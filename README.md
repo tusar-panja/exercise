@@ -1,2 +1,2 @@
 # exercise
-you can use this repo to do some exercise
+The expert in anything was once a beginner.
