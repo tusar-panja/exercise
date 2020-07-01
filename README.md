@@ -1,2 +1,2 @@
 # exercise
-you can use this repo to do some exercise
+Making change to the exercise repo from local environment
