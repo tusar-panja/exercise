@@ -1,2 +1,5 @@
 Tis file has been created from the newfeaturebranch.
+<<<<<<< HEAD
 Adding another line.
+=======
+>>>>>>> 5860a3e6276211d6b2a48449431f602ba38b6db5
