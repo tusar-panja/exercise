@@ -1,2 +1,3 @@
-# exercise
-you can use this repo to do some exercise
+# exercise from Codeclouds
+The expert in anything was once a beginner.
+From Codeclouds.
