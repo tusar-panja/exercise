@@ -3,6 +3,7 @@ you can use this repo to do some exercise
 I am editing this files
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Creating a new branch
 Remote changes
@@ -61,6 +62,8 @@ Hello2........
 =======
 <<<<<<< HEAD
 >>>>>>> e91035e... commit to prior to revert
+=======
+>>>>>>> 52d29d0... Revert "commit to prior to revert"
 this is my 2nd repo
 
 
@@ -77,6 +80,3 @@ Hello........
 
 
 Hello2........
-=======
-this is my 2nd repo
->>>>>>> parent of 01ed271... this is my 3nd repo
