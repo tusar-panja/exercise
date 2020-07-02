@@ -1,3 +1,4 @@
+
 # exercise
 you can use this repo to do some exercise.
 This line is added by rahul kulabhi from master branch.
@@ -7,6 +8,9 @@ This link from rkbranch to conflict with master brach.
 Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
 
 you can use this repo to do some exercise
+Madhurhita edited from newBranch
+
+
 newline by Bipasha
 another line which is added in the newfeature brunch.
 
