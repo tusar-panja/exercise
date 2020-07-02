@@ -1,5 +1,7 @@
 Hello All
 I am santanu paul a web developer.
+<<<<<<< HEAD
 I love Pizza.
 Also,I love burger too.
-hgdghfghf
+=======
+>>>>>>> parent of a802e6a... adding more line to txt file
