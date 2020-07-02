@@ -2,6 +2,9 @@
 Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
 
 you can use this repo to do some exercise
+newline by Bipasha
+another line which is added in the newfeature brunch.
+
 i'm inserting this line and sending pull request
 1st rebash
 2nd rebash
