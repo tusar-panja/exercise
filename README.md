@@ -2,6 +2,9 @@
 Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
 
 you can use this repo to do some exercise
+This is a readme file where I will start my exercise.
+I have added a new line in the new feature branch.
+
 
 
 
