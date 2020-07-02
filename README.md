@@ -74,7 +74,11 @@ The changes from newbranch1.
 The expert in anything was once a beginner.
 IFrom Codeclouds.
 
-I am modifying this page fro assignment
+I am modifying this page fro assignment 
+
+
+I have modified the page from remote master before rebase.
+
 
 
 
