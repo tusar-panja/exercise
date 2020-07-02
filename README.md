@@ -1,2 +1,2 @@
-# exercise
-you can use this repo to do some exercise
+# exerc
+this is my first excecise1
