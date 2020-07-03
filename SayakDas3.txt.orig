@@ -1,9 +1,9 @@
 Tis file has been created from the newfeaturebranch.
 Adding another line.
-Adding third line
 <<<<<<< HEAD
-=======
+Adding third line
 Adding another line.
 This commit is being inititated to make the changes to forked and cloned repo
 =======
->>>>>>> a98d400... This is a squashed commits using rebase
+=======
+>>>>>>> a978b77... This commit is being inititated to make the changes to forked and cloned repo
