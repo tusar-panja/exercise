@@ -22,8 +22,9 @@ i'm inserting this line and sending pull request
 This is a readme file where I will start my exercise.
 I have added a new line in the new feature branch.
 
+Added some content by Milon Saha as per point no 7
 
-added some comments by Milon saha  
+added some comments by Milon saha 
 
 1st commit fork
 change in newbranch from local
