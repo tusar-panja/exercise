@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 print("Hello, Biplab Da This is Ashis!!")
 console.log("Hello, Biplab Da This is Ashis!!");
+=======
+console.log("Hello, Biplab Da This is Ashis!!");
+print("Hello, Biplab Da This is Ashis!!");
+>>>>>>> c64e7a2... Commit from demo branch
 
