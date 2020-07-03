@@ -1,3 +1,6 @@
 Tis file has been created from the newfeaturebranch.
 Adding another line.
 Adding third line
+=======
+Adding another line.
+This commit is being inititated to make the changes to forked and cloned repo
