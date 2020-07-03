@@ -1,2 +1,3 @@
 print("Hello, Biplab Da This is Ashis!!")
+console.log("Hello, Biplab Da This is Ashis!!");
 
