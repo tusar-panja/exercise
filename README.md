@@ -8,6 +8,9 @@ This link from rkbranch to conflict with master brach.
 Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
 
 you can use this repo to do some exercise
+Madhurhita edited from newBranch
+
+
 newline by Bipasha
 another line which is added in the newfeature brunch.
 
@@ -70,5 +73,8 @@ The changes from newbranch1.
 # exercise from Codeclouds
 The expert in anything was once a beginner.
 From Codeclouds.
+<<<<<<< HEAD
 Madhurhita edited from newBranch
 
+=======
+>>>>>>> f71c7fe4eb85cad5a9bc7503044a19efc256bc3f
