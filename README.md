@@ -1,5 +1,6 @@
 # exercise
 <<<<<<< HEAD
+<<<<<<< HEAD
 you can use this repo to do some exercise
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -48,3 +49,6 @@ you can use this repo to do some exercise. This is the example of Forking proces
 >>>>>>> 297bfd6... Added the text on readme file
 =======
 >>>>>>> 5c25147... changes the readme file from newbranch1
+=======
+The expert in anything was once a beginner.
+>>>>>>> aa8b0a9... updated the readme file.
