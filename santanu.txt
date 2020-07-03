@@ -1,2 +1,5 @@
 Hello All
+<<<<<<< HEAD
 I am santanu paul a web developer.
+=======
+>>>>>>> 305c370... adding a new file
