@@ -1,5 +1,6 @@
 # exercise
 you can use this repo to do some exercise
+<<<<<<< HEAD
 I am editing this files
 
 
@@ -32,3 +33,6 @@ Another line added by Sayak Das
 Fourth line added by Sayak Das
 This line has been added from the newfeaturebranch by Sayak Das
 Another line added by Sayak Das
+=======
+This line has been added from the newfeaturebranch by Sayak Das
+>>>>>>> 5860a3e... This commit is being initiated to make some changes to the README file
