@@ -1,7 +1,7 @@
 # Git Exercise Given by Biplab Da
 
 To Do List
-----------------
+---------------
 1. Create a repo in local using command line
 2. Add and commit a file with <your name>.txt, put some content in it
 3. Push your changes to a private repo in GitHub
