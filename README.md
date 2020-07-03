@@ -26,6 +26,7 @@ Another line added by Sayak Das
 This line has been added from the newfeaturebranch by Sayak Das
 you can use this repo to do some exercise. This is the example of Forking process.
 The changes from newbranch1.
+<<<<<<< HEAD
 # exercise from Biplab
 # exercise from Codeclouds
 The expert in anything was once a beginner.
@@ -45,3 +46,5 @@ Another line added by Sayak Das
 =======
 you can use this repo to do some exercise. This is the example of Forking process.
 >>>>>>> 297bfd6... Added the text on readme file
+=======
+>>>>>>> 5c25147... changes the readme file from newbranch1
