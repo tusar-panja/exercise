@@ -19,7 +19,8 @@ Hello.... Its from remote
 This line has been added from the newfeaturebranch by Sayak Das
 Another line added by Sayak Das
 Fourth line added by Sayak Das
-=======
 This line has been added from the newfeaturebranch by Sayak Das
 Another line added by Sayak Das
->>>>>>> a978b77... This commit is being inititated to make the changes to forked and cloned repo
+=======
+This line has been added from the newfeaturebranch by Sayak Das
+>>>>>>> 5860a3e... This commit is being initiated to make some changes to the README file
