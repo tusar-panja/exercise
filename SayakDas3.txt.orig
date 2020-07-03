@@ -1,5 +1,6 @@
 Tis file has been created from the newfeaturebranch.
-<<<<<<< HEAD
 Adding another line.
+<<<<<<< HEAD
+Adding third line
 =======
->>>>>>> 1ba3c2a... This commit is being initiated from the newfeaturebranch to add a new file
+>>>>>>> a978b77... This commit is being inititated to make the changes to forked and cloned repo
