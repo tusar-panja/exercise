@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # exercise
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -30,6 +31,9 @@ The changes from newbranch1.
 <<<<<<< HEAD
 # exercise from Biplab
 # exercise from Codeclouds
+=======
+# exercise from Biplab
+>>>>>>> 05ac383... update readme file in master branch
 The expert in anything was once a beginner.
 From Codeclouds.
 <<<<<<< HEAD
