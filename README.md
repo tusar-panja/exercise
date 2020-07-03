@@ -1,4 +1,5 @@
 # exercise
+<<<<<<< HEAD
 you can use this repo to do some exercise
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -41,3 +42,6 @@ This line has been added from the newfeaturebranch by Sayak Das
 This line has been added from the newfeaturebranch by Sayak Das
 Another line added by Sayak Das
 >>>>>>> 9aebbc1... Update the readme file
+=======
+you can use this repo to do some exercise. This is the example of Forking process.
+>>>>>>> 297bfd6... Added the text on readme file
