@@ -1,4 +1,4 @@
-# Git Exercise Given by Biplab Da
+# Git Exercise Given by BiplabDa
 
 To Do List
 ---------------
