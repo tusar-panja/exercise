@@ -32,6 +32,7 @@ The changes from newbranch1.
 # exercise from Codeclouds
 The expert in anything was once a beginner.
 From Codeclouds.
+<<<<<<< HEAD
 This line has been added from the newfeaturebranch by Sayak Das
 Another line added by Sayak Das
 Fourth line added by Sayak Das
@@ -52,3 +53,5 @@ you can use this repo to do some exercise. This is the example of Forking proces
 =======
 The expert in anything was once a beginner.
 >>>>>>> aa8b0a9... updated the readme file.
+=======
+>>>>>>> 4e470b1... adding some changes in Readme file
