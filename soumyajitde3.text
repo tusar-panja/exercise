@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+It is a third file
+=======
 It is a third file.
 I have added a new line and another commit.
+<<<<<<< HEAD
 now I have made a test for update commit message
+=======
+now I have made a test for update commit message.
+>>>>>>> 7463b130cea2b4c19aa68f6597e017f7f3aa82a1
+>>>>>>> f7445c6bfb31e61d8ecc27e1b4a836aa71008527
