@@ -1,4 +1,7 @@
 
+
+## line 4 from branch2
+>>>>>>> b1b7491... adding line4 from branch2
 # exercise
 A line by Ranjini Chaudhary.\
 ## **Made the changes from a new branch.** -*Ranjini*\
