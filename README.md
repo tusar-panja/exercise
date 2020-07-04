@@ -74,3 +74,6 @@ From Codeclouds.
 Madhurhita edited from newBranch
 
 >>>>>>> 507e500... Commit on readme from newBranch
+=======
+Practiced Rebase, Interactive Rebase, Revert commit and Squash commits
+>>>>>>> ae7e1686cdc4eddc1fdeee20d8f5c3fb9ac808a4
