@@ -9,6 +9,12 @@ Making change to the exercise repo from exercise_branch in local environment and
 
 you can use this repo to do some exercise
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Madhurhita edited from newBranch
+
+
+>>>>>>> 45bd4dda7ce7b6aeaf00989d67894139d72289f5
 newline by Bipasha
 another line which is added in the newfeature brunch.
 
@@ -71,7 +77,11 @@ The changes from newbranch1.
 # exercise from Codeclouds
 The expert in anything was once a beginner.
 From Codeclouds.
+<<<<<<< HEAD
 =======
 Madhurhita edited from newBranch
 
 >>>>>>> 507e500... Commit on readme from newBranch
+=======
+new changes in README file
+>>>>>>> 45bd4dda7ce7b6aeaf00989d67894139d72289f5
