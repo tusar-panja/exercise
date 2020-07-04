@@ -1,5 +1,5 @@
 ## line from master
-## line 2 from master
+this is a merge from the ex-branch-one to the master in the local __this line is added after conflict resolution__
 # exercise
 A line by Ranjini Chaudhary.\
 ## **Made the changes from a new branch.** -*Ranjini*\
