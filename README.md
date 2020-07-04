@@ -1,3 +1,5 @@
+## line from master
+
 
 ### TEST BEFORE REBASE
 ## line from master
@@ -7,7 +9,7 @@ This message is edited using interactive rebase
 
 
 ## line 4 from branch2
-b1b7491... adding line4 from branch2
+
 
 *some modifications for testing*
 ## line 5 from branch2
@@ -16,7 +18,9 @@ some changes in the README file-This message is edited using interactive rebase
 
 ## line from master
 ## line 2 from master
->>>>>>> 28d6606... changes in master readme file
+
+
+
 # exercise
 A line by Ranjini Chaudhary.\
 ## **Made the changes from a new branch.** -*Ranjini*\
