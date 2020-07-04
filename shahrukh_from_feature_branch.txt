@@ -1,2 +1,3 @@
 Hi this is new file from feature branch
 Added 2nd line
+added 3rd line
