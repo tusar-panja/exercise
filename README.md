@@ -1,6 +1,7 @@
  HEAD
 
 
+
 # exercise
 you can use this repo to do some exercise.
 This line is added by rahul kulabhi from master branch.
@@ -12,7 +13,7 @@ Making change to the exercise repo from exercise_branch in local environment and
 you can use this repo to do some exercise
 Madhurhita edited from newBranch
 
- HEAD
+
 
 
 
@@ -83,4 +84,3 @@ From Codeclouds.
 # change Readme conflict
 exercise new
 this is my first excecise1
- 507e500... Commit on readme from newBranch
