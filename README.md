@@ -1,4 +1,6 @@
+## line from master
 
+## line 3 from branch1
 # exercise
 A line by Ranjini Chaudhary.\
 ## **Made the changes from a new branch.** -*Ranjini*\
