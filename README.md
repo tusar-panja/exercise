@@ -1,7 +1,22 @@
+
 # exercise
+you can use this repo to do some exercise.
+This line is added by rahul kulabhi from master branch.
+some modification to previous mistaske.
+This link from rkbranch to conflict with master brach.
+
 Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
 
 you can use this repo to do some exercise
+<<<<<<< HEAD
+=======
+Madhurhita edited from newBranch
+
+
+newline by Bipasha
+another line which is added in the newfeature brunch.
+
+>>>>>>> 8a67b24a6fae475106785241a305914212ec48ae
 i'm inserting this line and sending pull request
 1st rebash
 2nd rebash
@@ -64,6 +79,6 @@ From Codeclouds.
 
 # Something is added by Rahul singh
 
-I am adding first line in this file
+About to closing
 
 
