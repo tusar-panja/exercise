@@ -7,4 +7,3 @@ Again added some more contents in this file.
 Added some more line to have squash commit.
 Added some lines to have squash commits more.
 Added some line more for better commit view with squash.
-Added again a line for squash.
