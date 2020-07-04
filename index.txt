@@ -5,4 +5,8 @@ I have added the index fie so, we can start writing in the index file.
 I adding the 4th line in the master branch.
 =======
 I have added the 2nd line to make the first commit in 2nd feature branch.
+<<<<<<< HEAD
 >>>>>>> 05d84ed... added the 2nd line 2nd feature branch
+=======
+This is third line and 2nd commit for the 2nd branch. 
+>>>>>>> a46f92b... added the 3rd line 2nd feature branch
