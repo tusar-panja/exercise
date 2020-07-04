@@ -1,3 +1,4 @@
+### TEST BEFORE REBASE
 ## line from master
 this is a merge from the branch2 to the master in the local __this line is added after conflict resolution while merge from branch2 to master__
 
