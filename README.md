@@ -8,9 +8,7 @@ This link from rkbranch to conflict with master brach.
 Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
 
 you can use this repo to do some exercise
-<<<<<<< HEAD
-I am adding this line-Priyanka
-=======
+
 Madhurhita edited from newBranch
 
 
