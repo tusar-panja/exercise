@@ -9,10 +9,7 @@ Making change to the exercise repo from exercise_branch in local environment and
 
 you can use this repo to do some exercise
 
-<<<<<<< HEAD
 =======
-=======
->>>>>>> e8247790ce61f43d1fbc7efd09c553c84e8e2983
 Madhurhita edited from newBranch
 
 
@@ -80,5 +77,4 @@ The expert in anything was once a beginner.
 From Codeclouds.
 
 #added new line from newbranch -priyanka
-#adding line to revert
 >>>>>>> 66c084d019bcffccb8b0192db402084c80dbbb92
