@@ -2,6 +2,11 @@
 Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
 
 you can use this repo to do some exercise
+i'm inserting this line and sending pull request
+1st rebash
+2nd rebash
+3rd rebash
+
 This is a readme file where I will start my exercise.
 I have added a new line in the new feature branch.
 
@@ -56,3 +61,9 @@ The changes from newbranch1.
 # exercise from Codeclouds
 The expert in anything was once a beginner.
 From Codeclouds.
+
+# Something is added by Rahul singh
+
+I am adding first line in this file
+
+
