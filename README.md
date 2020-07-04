@@ -1,7 +1,17 @@
+### TEST BEFORE REBASE
+## line from master
+this is a merge from the branch2 to the master in the local __this line is added after conflict resolution while merge from branch2 to master__
+>>>>>>> 626a4c8... This message is edited using interactive rebase
 
+<<<<<<< HEAD
 
 ## line 4 from branch2
 >>>>>>> b1b7491... adding line4 from branch2
+=======
+*some modifications for testing*
+## line 5 from branch2
+
+>>>>>>> 4bd8030... some changes in the README file-This message is edited using interactive rebase
 # exercise
 A line by Ranjini Chaudhary.\
 ## **Made the changes from a new branch.** -*Ranjini*\
