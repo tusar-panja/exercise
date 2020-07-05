@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Git Exercise Given by Biplab Da
 =======
 # GitHub To Do List Given by Biplab Da
@@ -15,6 +16,9 @@
 =======
 # Git To Do List Given by Biplab Da
 >>>>>>> 65ce38b... Updated the readme file v2.1
+=======
+# GitHub To Do List Given by Biplab Da
+>>>>>>> cd34b40... Updated the readme file v1.1
 
 To Do List
 ---------------
