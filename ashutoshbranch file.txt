@@ -4,4 +4,3 @@ I created the branch file
 first line
 second line
 Third Line
-Fourth Line
