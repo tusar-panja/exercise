@@ -95,6 +95,13 @@ The changes from newbranch1.
 The expert in anything was once a beginner.
 From Codeclouds.
 
+Adding comments after checkout to the new branch by Saikat Das
+Adding line 1 by Saikat Das
+Adding line 2 by Saikat Das
+Adding line 3 by Saikat Das
+Adding line 4 by Saikat Das
+Adding line 5 by Saikat Das for rebasing
+
 # Added Line (From Branch)
 
 Madhurhita edited from newBranch
