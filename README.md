@@ -19,6 +19,8 @@ This link from rkbranch to conflict with master brach.
 Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
 
 you can use this repo to do some exercise
+
+
 Madhurhita edited from newBranch
 
 
@@ -88,6 +90,7 @@ The changes from newbranch1.
 The expert in anything was once a beginner.
 From Codeclouds.
 
+#added new line from newbranch -priyanka
 Hello I have added this line in README.md file.
  upstream/master
 
