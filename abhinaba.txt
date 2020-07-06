@@ -1,0 +1,7 @@
+hello world first text
+this is my scond text
+this is my third commit
+this is my squash commit
+this is another squash commit
+
+
