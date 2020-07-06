@@ -20,6 +20,11 @@ Making change to the exercise repo from exercise_branch in local environment and
 
 you can use this repo to do some exercise
 
+Madhurhita edited from newBranch
+
+
+
+
 
 Madhurhita edited from newBranch
 
@@ -89,6 +94,10 @@ The changes from newbranch1.
 # exercise from Codeclouds
 The expert in anything was once a beginner.
 From Codeclouds.
+
+Madhurhita edited from newBranch
+
+new changes in README file
 
 #Kashif-Iqbal
 This is a dummy text added be me. I have fixed you the bugs of this file now you can enjoye the features that you made. Thank you. 
