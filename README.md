@@ -62,6 +62,8 @@ Making change to the exercise repo from exercise_branch in local environment and
 you can use this repo to do some exercise
 
 
+Hey All, The Training session went very well, Thanks to Bibplada!!
+
 Madhurhita edited from newBranch
 
 
@@ -187,6 +189,7 @@ I have modified the page from remote master before rebase.
 
 
 From Codeclouds.
+
 
 # Headline
 - This is a dummy line added for exercise purpose by Koushik Kanjilal
