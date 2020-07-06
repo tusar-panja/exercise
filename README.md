@@ -1,4 +1,15 @@
 
+
+
+
+
+Hello I have added this line in README.md file.
+
+
+moumita editing the file
+
+Rebase practice *Ranjini*
+
 # exercise
 you can use this repo to do some exercise.
 This line is added by rahul kulabhi from master branch.
@@ -8,7 +19,18 @@ This link from rkbranch to conflict with master brach.
 Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
 
 you can use this repo to do some exercise
+
+
 Madhurhita edited from newBranch
+
+
+
+
+
+Madhurhita edited from newBranch
+
+
+
 
 
 newline by Bipasha
@@ -57,7 +79,9 @@ Hello.... Its from local
 Hello.... Its from remote
 Hello.... Its from remote
 
-
+this is for testing and testing only
+this is for testing 
+this is for testing 
 # ADDED LINE 1
 # ADDED LINE 2
 # ADDED LINE 3
@@ -82,3 +106,66 @@ I have modified the page from remote master before rebase.
 
 
 
+
+From Codeclouds.
+
+Madhurhita edited from newBranch
+
+
+
+I have added line from newbranch
+Added another line from newbranch
+# New line added
+New line added by Sayan Sardar
+
+Subhasree_Branch
+Subhasree: From Local, exercise Branch
+Madhurhita edited from newBranch
+
+# Tonmoy Saha
+This is assignmet line
+
+
+Adding comments after checkout to the new branch by Saikat Das
+Adding line 1 by Saikat Das
+Adding line 2 by Saikat Das
+Adding line 3 by Saikat Das
+Adding line 4 by Saikat Das
+Adding line 5 by Saikat Das for rebasing
+
+# Added Line (From Branch)
+
+Madhurhita edited from newBranch
+
+new changes in README file
+
+#Kashif-Iqbal
+This is a dummy text added be me. I have fixed you the bugs of this file now you can enjoye the features that you made. Thank you. 
+This line is added from the branch feature1
+
+#added new line from newbranch -priyanka
+Hello I have added this line in README.md file.
+ upstream/master
+
+# change Readme conflict
+exercise new
+this is my first excecise1
+
+
+#New Link Added By Shahrukh
+Hey I'm adding this line from my branch
+
+
+This is sudipta Comment
+
+
+
+I am Ashutosh Kumar Choubey
+
+# exercise from Arnab Polley
+New Line added.
+# Hello there from Anindya
+Madhurhita edited from newBranch
+
+
+Practiced Rebase, Interactive Rebase, Revert commit and Squash commits
