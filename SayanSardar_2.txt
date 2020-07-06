@@ -1,0 +1,2 @@
+This is new file from branch
+This is second line
