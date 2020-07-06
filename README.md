@@ -1,4 +1,8 @@
 
+moumita editing the file
+
+Rebase practice *Ranjini*
+
 # exercise
 you can use this repo to do some exercise.
 This line is added by rahul kulabhi from master branch.
@@ -8,9 +12,6 @@ This link from rkbranch to conflict with master brach.
 Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
 
 you can use this repo to do some exercise
-Madhurhita edited from newBranch
-
-
 newline by Bipasha
 another line which is added in the newfeature brunch.
 
@@ -77,3 +78,17 @@ From Codeclouds.
 #New Link Added By Shahrukh
 Hey I'm adding this line from my branch
 
+
+This is sudipta Comment
+
+
+
+I am Ashutosh Kumar Choubey
+
+# exercise from Arnab Polley
+New Line added.
+# Hello there from Anindya
+Madhurhita edited from newBranch
+
+
+Practiced Rebase, Interactive Rebase, Revert commit and Squash commits
