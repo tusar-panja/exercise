@@ -1,4 +1,15 @@
 
+ HEAD
+
+
+
+Hello I have added this line in README.md file.
+
+
+moumita editing the file
+
+Rebase practice *Ranjini*
+
 # exercise
 you can use this repo to do some exercise.
 This line is added by rahul kulabhi from master branch.
@@ -9,6 +20,9 @@ Making change to the exercise repo from exercise_branch in local environment and
 
 you can use this repo to do some exercise
 Madhurhita edited from newBranch
+
+
+
 
 
 newline by Bipasha
@@ -75,3 +89,27 @@ The expert in anything was once a beginner.
 From Codeclouds.
 
 Hello I have added this line in README.md file.
+ upstream/master
+
+# change Readme conflict
+exercise new
+this is my first excecise1
+
+
+#New Link Added By Shahrukh
+Hey I'm adding this line from my branch
+
+
+This is sudipta Comment
+
+
+
+I am Ashutosh Kumar Choubey
+
+# exercise from Arnab Polley
+New Line added.
+# Hello there from Anindya
+Madhurhita edited from newBranch
+
+
+Practiced Rebase, Interactive Rebase, Revert commit and Squash commits
