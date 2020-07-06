@@ -1,0 +1,3 @@
+This is first line to show sqush example.
+This is the 2nd line to show the sqush example.
+Its the last line or you can say third line I appended on the demo file.

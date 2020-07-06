@@ -1,0 +1,3 @@
+Adding some content in another branch
+
+Adding second line in the file
