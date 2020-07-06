@@ -1,3 +1,7 @@
+ HEAD
+
+
+
 Hello I have added this line in README.md file.
 
 
@@ -14,6 +18,12 @@ This link from rkbranch to conflict with master brach.
 Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
 
 you can use this repo to do some exercise
+Madhurhita edited from newBranch
+
+
+
+
+
 newline by Bipasha
 another line which is added in the newfeature brunch.
 
@@ -76,6 +86,12 @@ The changes from newbranch1.
 # exercise from Codeclouds
 The expert in anything was once a beginner.
 From Codeclouds.
+ upstream/master
+
+# change Readme conflict
+exercise new
+this is my first excecise1
+
 
 #New Link Added By Shahrukh
 Hey I'm adding this line from my branch
