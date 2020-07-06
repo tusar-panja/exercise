@@ -1,4 +1,8 @@
+
+moumita editing the file
+
 Rebase practice *Ranjini*
+
 # exercise
 you can use this repo to do some exercise.
 This line is added by rahul kulabhi from master branch.
@@ -70,10 +74,8 @@ The changes from newbranch1.
 # exercise from Codeclouds
 The expert in anything was once a beginner.
 From Codeclouds.
-=======
+
 Madhurhita edited from newBranch
 
->>>>>>> 507e500... Commit on readme from newBranch
-=======
+
 Practiced Rebase, Interactive Rebase, Revert commit and Squash commits
->>>>>>> ae7e1686cdc4eddc1fdeee20d8f5c3fb9ac808a4
