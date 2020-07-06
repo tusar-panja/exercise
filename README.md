@@ -68,6 +68,7 @@ Making change to the exercise repo from exercise_branch in local environment and
 
 you can use this repo to do some exercise
 
+hi this is bikash making changes from new branch
 
 Hey All, The Training session went very well, Thanks to Bibplada!!
 
