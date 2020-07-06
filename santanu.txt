@@ -1,9 +1,11 @@
 Hello All
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 I am santanu paul a web developer.
-=======
->>>>>>> 305c370... adding a new file
-=======
+
 I am santanu paul a web developer.
->>>>>>> 2c35e4c... adding some text in santanu.txt
+
+I am santanu paul a web developer.
+I love Pizza.
+Also,I love burger too.
+
+From Codeclouds Emp.
