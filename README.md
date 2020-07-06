@@ -90,6 +90,10 @@ The changes from newbranch1.
 The expert in anything was once a beginner.
 From Codeclouds.
 
+#Kashif-Iqbal
+This is a dummy text added be me. I have fixed you the bugs of this file now you can enjoye the features that you made. Thank you. 
+This line is added from the branch feature1
+
 #added new line from newbranch -priyanka
 Hello I have added this line in README.md file.
  upstream/master
