@@ -130,6 +130,7 @@ Hello2........
 I am editing this files
 
 
+
 Creating a new branch
 Remote changes
 
@@ -200,6 +201,55 @@ I have modified the page from remote master before rebase.
 
 
 From Codeclouds.
+This is a readme file where I will start my exercise.
+I have added a new line in the new feature branch.
+Making change to the exercise repo from local environment
+Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
+
+
+
+1st commit fork
+1st commit fork
+change in newbranch from local
+change 2
+change 3
+change 3
+
+this is my 2nd repo
+this is my 2nd repo
+
+
+this is my 3nd repo
+
+
+Hello........
+
+
+Hello........
+
+Hello........
+
+
+
+Hello2........
+
+this is my 2nd repo
+
+
+this is my 3nd repo
+
+
+Hello........
+
+
+Hello........
+
+Hello........
+
+
+
+Hello2........
+
 
 # Adding line 
 Added new line by Soumita from another branch
