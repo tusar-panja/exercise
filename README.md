@@ -85,8 +85,13 @@ another line which is added in the newfeature brunch.
 This is a readme file where I will start my exercise.
 I have added a new line in the new feature branch.
 
+Added some content by Milon Saha as per point no 7
 
+edited 1st rebash
+edited 2nd rebash
+edited 3rd rebash
 
+added some comments by Milon saha 
 
 1st commit fork
 change in newbranch from local
