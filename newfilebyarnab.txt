@@ -1,0 +1,9 @@
+Adding new file so as to merge to master
+Making some changes again.
+Adding some content more to make use of changing commit message using rebase
+interactive.
+Added some more lines to have some more commitIDs.
+Again added some more contents in this file.
+Added some more line to have squash commit.
+Added some lines to have squash commits more.
+Added some line more for better commit view with squash.
