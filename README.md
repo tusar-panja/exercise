@@ -1,4 +1,15 @@
 
+ HEAD
+
+
+
+Hello I have added this line in README.md file.
+
+
+moumita editing the file
+
+Rebase practice *Ranjini*
+
 # exercise
 you can use this repo to do some exercise.
 This line is added by rahul kulabhi from master branch.
@@ -8,7 +19,17 @@ This link from rkbranch to conflict with master brach.
 Making change to the exercise repo from exercise_branch in local environment and merging it with master for assignment point #7
 
 you can use this repo to do some exercise
+
 Madhurhita edited from newBranch
+
+
+
+
+
+Madhurhita edited from newBranch
+
+
+
 
 
 newline by Bipasha
@@ -80,3 +101,40 @@ Adding line 2 by Saikat Das
 Adding line 3 by Saikat Das
 Adding line 4 by Saikat Das
 Adding line 5 by Saikat Das for rebasing
+
+# Added Line (From Branch)
+
+Madhurhita edited from newBranch
+
+new changes in README file
+
+#Kashif-Iqbal
+This is a dummy text added be me. I have fixed you the bugs of this file now you can enjoye the features that you made. Thank you. 
+This line is added from the branch feature1
+
+#added new line from newbranch -priyanka
+Hello I have added this line in README.md file.
+ upstream/master
+
+# change Readme conflict
+exercise new
+this is my first excecise1
+
+
+#New Link Added By Shahrukh
+Hey I'm adding this line from my branch
+
+
+This is sudipta Comment
+
+
+
+I am Ashutosh Kumar Choubey
+
+# exercise from Arnab Polley
+New Line added.
+# Hello there from Anindya
+Madhurhita edited from newBranch
+
+
+Practiced Rebase, Interactive Rebase, Revert commit and Squash commits
