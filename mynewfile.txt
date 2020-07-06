@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this is going to be reverted.
+=======
+this is going to be reverted. this is my second change.
+>>>>>>> 6e3e43fc5bc070895aeb9247afcb7b0ffeb6f37a
